@@ -48,7 +48,7 @@ tr,td{
     background-color: greenyellow;
 }
 .color3{
-    background-color: brown;
+    background-color: yellow;
 }
 
 .color4{
@@ -67,7 +67,7 @@ tr,td{
 
 .price:hover{
     box-shadow: 3px 3px 20px black;
-    color: gold;
+    color: brown;
 }
 
 .compra:hover{
