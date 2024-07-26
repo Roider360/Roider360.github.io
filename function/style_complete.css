@@ -1,0 +1,36 @@
+body{
+    background-color: pink;
+}
+
+.pago{
+    padding: 30px;
+    font-size: 60px;
+    background-color: green;
+    text-align: center;
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 20rem;
+}
+
+.pago:hover{
+    box-shadow: 3px 3px 20px;
+}
+
+#centrar{
+    text-align: center;
+    background-color: aqua;
+    width: fit-content;
+    margin: 0 auto;
+    
+}
+
+button{
+    font-size: 40px;
+    background-color: blanchedalmond;
+}
+
+button:hover{
+    background-color: blueviolet;
+    box-shadow: 3px 3px 20px;
+}

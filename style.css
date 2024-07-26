@@ -1,0 +1,86 @@
+body{
+    background-color: pink;
+
+}
+button:hover{
+    background-color: rgb(0, 136, 255);
+    box-shadow: 3px 3px 3px;
+}
+
+button:active{
+    background-color: cornsilk;
+}
+
+#titulo{
+    font-size: 90px;
+    text-align: center;
+    color: green;
+    border: 1px solid black;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgb(226, 132, 245);
+
+}
+
+.tabla{
+    text-align: center;
+    margin: 0 auto;
+    font-size: 30px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+
+tr,td{
+    border: 4px solid black;
+    padding: 20px;
+
+}
+
+.color_fondo{
+    background-color: orange;
+}
+
+.color2{
+    background-color: greenyellow;
+}
+.color3{
+    background-color: yellow;
+}
+
+.color4{
+    background-color: aqua;
+}
+
+.color5{
+    background-color: darkcyan;
+}
+
+
+.shadow:hover{
+    box-shadow: 3px 3px 20px black;
+    color: rgb(255, 0, 0);
+}
+
+.price:hover{
+    box-shadow: 3px 3px 20px black;
+    color: gold;
+}
+
+.compra:hover{
+    box-shadow: 3px 3px 20px black;
+    color: green;
+
+}
+
+*{
+    font-weight: 600;
+}
+
+.fin{
+    text-align: center;
+    font-size: 30px;
+}
